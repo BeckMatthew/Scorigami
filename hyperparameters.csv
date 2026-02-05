@@ -1,0 +1,5 @@
+{'n_hidden': 12, 'n_neurons': 407, 'l2_regularization': 3.337895988223092e-05, 'alpha': np.float64(0.8743610285304286), 'gamma': np.float64(6.0), 'learning_rate': 0.002007159607385987}
+{'n_hidden': 14, 'n_neurons': 622, 'l2_regularization': 1.166017288523066e-13, 'alpha': np.float64(0.8681992895839716), 'gamma': np.float64(4.830626085760844), 'learning_rate': 0.00037554975176273993}
+{'n_hidden': 13, 'n_neurons': 50, 'l2_regularization': 1.1306828518029739e-09, 'alpha': np.float64(0.8574131833442318), 'gamma': np.float64(4.994211832273153), 'learning_rate': 0.002040540358854104}
+{'n_hidden': 18, 'n_neurons': 50, 'l2_regularization': 1e-14, 'alpha': np.float64(0.8736307751957697), 'gamma': np.float64(3.3176633899979984), 'learning_rate': 0.0015516231079206115}
+{'n_hidden': 20, 'n_neurons': 50, 'l2_regularization': 9.095336643283512e-09, 'alpha': np.float64(0.8466844253370484), 'gamma': np.float64(3.9938959004691075), 'learning_rate': 0.0017356864346149128}
